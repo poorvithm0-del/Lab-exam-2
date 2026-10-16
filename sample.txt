@@ -1,0 +1,5 @@
+@"
+the cat, the dog; a cat:
+Zebra  apple.apple !x #y
+the end
+"@ | Set-Content sample.txt
